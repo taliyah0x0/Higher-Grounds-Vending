@@ -1,0 +1,224 @@
+@media screen and (max-width: 1152px) { /* for small screen */
+	.header-image {
+		background-image: url("../images/home2.png");
+		background-position: bottom;
+		background-repeat: no-repeat;
+		background-size: contain;
+        height: 100vh;
+	}
+
+    .intro-block {
+        height: 200vh;
+    }
+
+    .cover {
+        width: 100vw;
+        height: 100vh;
+        position: fixed;
+        left: 0;
+        top: 0;
+        background-color: #856656;
+        visibility: 0;
+        opacity: 0;
+        transition: 0.5s;
+        z-index: 500;
+    }
+
+    .cover.active {
+        visibility: 1;
+        opacity: 1;
+    }
+
+    .flex-row {
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    .flex-col {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        flex-direction: row;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .profile-img {
+        width: 10rem;
+        border-radius: 2rem;
+    }
+
+    .li-icon {
+        position: relative;
+        bottom: 0;
+        right: 1rem;
+        font-size: 24px;
+    }
+
+    .profile-section {
+        height: 10rem;
+    }
+}
+
+@media screen and (min-width: 1152px) { /* for large screen */
+	.header-image {
+		background-image: url("../images/home.png");
+		background-position: bottom;
+		background-repeat: no-repeat;
+		background-size: contain;
+        height: 100vh;
+	}
+
+    .intro-block {
+        height: 100vh;
+    }
+
+    .flex-row {
+        flex-direction: row;
+        display: flex;
+        gap: 1.5rem;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .flex-col {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2rem;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .profile-img {
+        width: 8rem;
+        border-radius: 2rem;
+    }
+
+    .li-icon {
+        position: relative;
+        bottom: 3rem;
+        left: 7rem;
+        font-size: 24px;
+        margin: 0;
+    }
+
+    .profile-section {
+        height: 8rem;
+    }
+}
+
+.profile-text {
+    margin: 0.5rem 0 0.5rem 0;
+    text-align: center;
+    line-height: 1.5rem;
+    width: 12rem;
+    font-size: 1.2rem;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.menu.active {
+    /* When active, make the menu visible */
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0);
+}
+
+.menu-icon {
+    font-size: 30px;
+    cursor: pointer;
+    position: fixed;
+    left: 5.5rem;
+    top: 2rem;
+    z-index: 1000;
+}
+  
+.menu {
+    position: fixed;
+    z-index: 1000;
+    left: 5.5rem;
+    top: 8rem;
+    padding: 10px 20px;
+    border-radius: 5px;
+    
+    /* Start in a hidden state */
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(-10px);
+    transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s ease;
+}
+  
+.menu > ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+  
+.menu > ul > li {
+    margin: 10px 0;
+}
+  
+.menu > ul > li > a {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+footer {
+    /* Start in a hidden state */
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.5s ease, visibility 0.5s ease;
+}
+
+footer.active {
+    /* When active, make the menu visible */
+    visibility: hidden;
+    opacity: 0;
+}
+
+header {
+    /* Start in a hidden state */
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 0.5s ease, visibility 0.5s ease;
+    margin-top: 0.5rem;
+}
+
+header.active {
+    /* When active, make the menu visible */
+    visibility: hidden;
+    opacity: 0;
+}
+
+.sandwich {
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Coiny'
+}
+
+.start {
+    font-size: 30px;
+    margin-left: 10rem;
+}
+
+.intro-header {
+    height: calc(100vh - 10rem);
+    margin-top: 10rem;
+}
+
+.li-link {
+    border: 0;
+    opacity: 1;
+    transition: 0.5s;
+}
+
+.li-link:hover {
+    opacity: 0.7;
+}
