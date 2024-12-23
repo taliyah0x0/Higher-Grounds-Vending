@@ -2141,7 +2141,7 @@ input, select, textarea {
 		appearance: none;
 		border-radius: 0.325rem;
 		border: solid 2px rgba(144, 144, 144, 0.25);
-		color: inherit;
+		color: black;
 		display: block;
 		outline: 0;
 		padding: 0 1rem;
