@@ -18,15 +18,15 @@
         left: 0;
         top: 0;
         background-color: #856656;
-        visibility: 0;
         opacity: 0;
         transition: 0.5s;
+        pointer-events: none;
         z-index: 500;
     }
 
     .cover.active {
-        visibility: 1;
         opacity: 1;
+        pointer-events: auto;
     }
 
     .flex-row {
@@ -124,7 +124,6 @@ html {
 
 .menu.active {
     /* When active, make the menu visible */
-    visibility: visible;
     opacity: 1;
     transform: translateY(0);
 }
@@ -147,10 +146,9 @@ html {
     border-radius: 5px;
     
     /* Start in a hidden state */
-    visibility: hidden;
     opacity: 0;
     transform: translateY(-10px);
-    transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s ease;
+    transition: opacity 0.3s ease, transform 0.3s ease;
 }
   
 .menu > ul {
@@ -172,28 +170,24 @@ html {
 
 footer {
     /* Start in a hidden state */
-    visibility: visible;
     opacity: 1;
-    transition: opacity 0.5s ease, visibility 0.5s ease;
+    transition: opacity 0.5s ease;
 }
 
 footer.active {
     /* When active, make the menu visible */
-    visibility: hidden;
     opacity: 0;
 }
 
 header {
     /* Start in a hidden state */
-    visibility: visible;
     opacity: 1;
-    transition: opacity 0.5s ease, visibility 0.5s ease;
+    transition: opacity 0.5s ease;
     margin-top: 0.5rem;
 }
 
 header.active {
     /* When active, make the menu visible */
-    visibility: hidden;
     opacity: 0;
 }
 
