@@ -41,7 +41,6 @@ document.addEventListener("DOMContentLoaded", () => {
 document.querySelectorAll(".scroll-link").forEach(link => {
     link.addEventListener("click", (e) => {
       e.preventDefault(); // Prevent the default anchor behavior
-
       const targetId = link.getAttribute("href").substring(1); // Get the target ID
       const targetElement = document.getElementById(targetId);
 
