@@ -3409,11 +3409,11 @@ input, select, textarea {
 			}
 
 		#wrapper .copyright {
-			color: rgba(0, 0, 0, 0.25);
+			color: white;
 			font-size: 1rem;
 			left: 40vw;
 			position: relative;
-			width: 40vw;
+			width: 60vw;
 		}
 
 			#wrapper .copyright a {
