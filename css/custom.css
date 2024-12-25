@@ -8,7 +8,7 @@
 	}
 
     .intro-block {
-        height: 160vh;
+        height: 145vh;
     }
 
     .intro-header {
@@ -132,6 +132,7 @@
     line-height: 1.5rem;
     width: 12rem;
     font-size: 1.2rem;
+    margin-right: 1.5rem;
 }
 
 html {
