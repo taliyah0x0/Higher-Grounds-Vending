@@ -36,6 +36,11 @@ document.addEventListener("DOMContentLoaded", () => {
             document.getElementById("map-arrow").innerHTML = "See map on right →";
         }
     });
+
+    const nutrition = document.getElementsByClassName("nutrition");
+    for (var i = 0; i < nutrition.length; i++) {
+      nutrition[i].style.display = "none";
+    }
 });
 
 document.querySelectorAll(".scroll-link").forEach(link => {
@@ -65,3 +70,19 @@ document.querySelectorAll(".scroll-link").forEach(link => {
       }
     });
   });
+
+function toggleNutrition(index) {
+  let info = document.getElementsByClassName("nutrition-title")[index].innerHTML;
+  let char = info.substring(info.length - 1);
+  if (char == "+") {
+    document.getElementsByClassName("nutrition-title")[index].style.borderBottom = "0.5px solid white";
+    document.getElementsByClassName("nutrition")[index].style.display = "flex";
+    setTimeout (() => { document.getElementsByClassName("nutrition")[index].style.opacity = "1"; }, 150);
+    document.getElementsByClassName("nutrition-title")[index].innerHTML = info.substring(0, info.length - 1) + "-";
+  } else {
+    document.getElementsByClassName("nutrition-title")[index].style.borderBottom = "none";
+    setTimeout (() => { document.getElementsByClassName("nutrition")[index].style.display = "none"; }, 150);
+    document.getElementsByClassName("nutrition")[index].style.opacity = "0";
+    document.getElementsByClassName("nutrition-title")[index].innerHTML = info.substring(0, info.length - 1) + "+";
+  }
+}

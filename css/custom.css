@@ -242,3 +242,32 @@ header.active {
     height: 25rem;
     overflow: hidden;
 }
+
+.lists {
+    margin: 0;
+    font-size: 0.8rem;
+}
+
+.menu-header li {
+    line-height: 1.25rem;
+    font-size: 0.8rem;
+}
+
+.nutrition-title {
+    margin: 0;
+    padding-bottom: 0.5rem;
+    font-weight: bold;
+}
+
+.nutrition-title:hover {
+    cursor: pointer;
+}
+
+.nutrition {
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+    margin-top: 1rem;
+    transition: 0.3s ease;
+    opacity: 0;
+}
