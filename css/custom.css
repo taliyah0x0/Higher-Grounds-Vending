@@ -82,7 +82,8 @@
         align-items: center;
         justify-content: center;
         font-weight: bold;
-        color: #003F94
+        color: #003F94;
+        font-size: 1rem;
     }
 
     #ad-popup {
