@@ -87,10 +87,10 @@ function toggleNutrition(index) {
   }
 }
 
-window.addEventListener('onclick', function() {
+window.addEventListener('click', function() {
   setTimeout(() => {
-  document.getElementById("ad-popup").style.display = "none";
-  document.getElementById("linkform").style.display = "none";
+    document.getElementById("ad-popup").style.display = "none";
+    document.getElementById("linkform").style.display = "none";
   }, 500);
 
 });
