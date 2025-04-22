@@ -68,12 +68,41 @@
     .profile-section {
         height: 10rem;
     }
+
+    #linkform {
+        position: fixed;
+        width: 20vw;
+        height: 5vh;
+        top: 38vh;
+        right: 14vw;
+        background-color: white;
+        z-index: 1000;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: bold;
+        color: #003F94
+    }
+
+    #ad-popup {
+        background-image: url("../images/hiring.png");
+		background-position: center;
+		background-repeat: no-repeat;
+        background-size: contain;
+        height: 80vh;
+        width: 80vw;
+        position: fixed;
+        top: 10vh;
+        left: 10vw;
+        z-index: 1000;
+    }
 }
 
 @media screen and (min-width: 1152px) { /* for large screen */
 	.header-image {
 		background-image: url("../images/home.png");
-		background-position: bottom;
+		background-position: center;
 		background-repeat: no-repeat;
 		background-size: contain;
         height: 100vh;
@@ -123,6 +152,21 @@
 
     .menu-icon, .menu {
         left: 5.5rem;
+    }
+
+    #linkform {
+        position: absolute;
+        width: 10vw;
+        height: 10vh;
+        top: 65vh;
+        right: 25vw;
+        background-color: #003F94;
+        z-index: 1000;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: bold;
     }
 }
 
