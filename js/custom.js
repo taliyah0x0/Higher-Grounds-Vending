@@ -87,7 +87,7 @@ function toggleNutrition(index) {
   }
 }
 
-window.addEventListener('mousedown', function() {
+window.addEventListener('onclick', function() {
   setTimeout(() => {
   document.getElementById("ad-popup").style.display = "none";
   document.getElementById("linkform").style.display = "none";
