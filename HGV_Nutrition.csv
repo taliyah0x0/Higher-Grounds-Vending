@@ -15,8 +15,8 @@ Website ID,Temperature,Drink,Allergen Info,Caption,Ingredient 1,Grams,Ingredient
 1,Hot,Hot Americano,Includes: Caffeine,A classic espresso-based drink with hot water.,Coffee Bean,20,,,,,5,0,5,0,1,,Protein,0.0185,,Protein,0.04444444444
 11,Cold,Taro Matcha (Cold),Includes: Milk,A unique blend of taro and matcha flavors in a creamy latte.,Taro,30,Milk Powder,15,Matcha,30,344,13,364,46,5,,,,,,
 11,Hot,Taro Matcha (Hot),Includes: Milk,A unique blend of taro and matcha flavors in a creamy latte.,Taro,25,Milk Powder,10,Matcha,25,274,10,294,37,4,,,,,,
-12,Hot,Taro Milk Tea (Cold),Includes: Milk,A smooth and creamy milk tea made with taro root.,Taro,60,Milk Powder,15,,,339,12,565,40,5,,Matcha Powder (per g),,,Assam Tea Powder (per g),
-12,Cold,Taro Milk Tea (Hot),Includes: Milk,A smooth and creamy milk tea made with taro root.,Taro,40,,,,,176,6,340,22,0,,Calories,4.56262454,,Calories,4.53394382
+12,Cold,Taro Milk Tea (Cold),Includes: Milk,A smooth and creamy milk tea made with taro root.,Taro,60,Milk Powder,15,,,339,12,565,40,5,,Matcha Powder (per g),,,Assam Tea Powder (per g),
+12,Hot,Taro Milk Tea (Hot),Includes: Milk,A smooth and creamy milk tea made with taro root.,Taro,40,,,,,176,6,340,22,0,,Calories,4.56262454,,Calories,4.53394382
 8,Cold,Matcha Latte (Cold),Includes: Milk,A vibrant green tea latte made with matcha powder and milk.,Matcha,60,Milk Powder,15,,,349,13,163,52,6,,Fat,0.153,,Fat,0.159
 8,Hot,Matcha Latte (Hot),Includes: Milk,A vibrant green tea latte made with matcha powder and milk.,Matcha,50,,,,,228,8,90,38,2,,Sodium,1.8,,Sodium,1.75
 6,Cold,Hokkaido Milk Tea (Cold),Includes: Milk,A smooth and creamy milk tea made with Hokkaido milk.,Assam Milk,60,Milk Powder,15,,,347,14,160,52,5,,Sugar,0.76,,Sugar,0.75
