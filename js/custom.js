@@ -93,9 +93,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
     setTimeout(() => {
       const content_section = document.getElementById("drinks_content");
+      var index = 0;
       for (var i = 0; i < drink_names.length; i++) {
         var drink_name = indices.map(i => drink_names[i]);
-        console.log(drink_name[i])
         if (hidden_drinks.includes(drink_name[i])) {
           continue;
         }
@@ -106,7 +106,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <header style="padding-left: 2rem; margin-top: 3rem" class="menu-header">
             <h3>${drink_name[i]}</h3>
               <p>${hot_drink["Caption"]} ${hot_drink["Allergen Info"]}</p>
-              <p class="nutrition-title" onclick="toggleNutrition(${i})">Nutrition Information +</p>
+              <p class="nutrition-title" onclick="toggleNutrition(${index})">Nutrition Information +</p>
               <div class="nutrition">
                 <div><p class="lists">Hot: ${hot_drink["Total Calories"]} Calories<li>${hot_drink["Total Fat"]}g Fat<li>${hot_drink["Total Sodium"]}mg Sodium<li>${hot_drink["Total Sugar"]}g Sugar<li>${hot_drink["Total Protein"]}g Protein</p></div>
                 <div><p class="lists">Cold: ${cold_drink["Total Calories"]} Calories<li>${cold_drink["Total Fat"]}g Fat<li>${cold_drink["Total Sodium"]}mg Sodium<li>${cold_drink["Total Sugar"]}g Sugar<li>${cold_drink["Total Protein"]}g Protein</p></div>
@@ -116,6 +116,7 @@ document.addEventListener("DOMContentLoaded", () => {
               <span class="image main main-block"><img src="images/drinks/${indices[i]}.png" alt=""/></span>
           </div>
         </section>`;
+        index++;
       }
     },500);
 });
