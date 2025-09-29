@@ -1,5 +1,6 @@
 var menu_visible = 0;
-var drink_names = ["Thai Milk Tea", "Americano", "Banana Latte", "Banana Taro", "Banana Milk", "Choco Banana", "Hokkaido Milk Tea", "Latte", "Matcha Latte", "Mocha", "Oolong Milk Tea", "Taro Matcha", "Taro Milk Tea"];
+var drink_names = ["Thai Milk Tea", "Americano", "Banana Latte", "Banana Taro", "Banana Milk", "Choco Banana", "Hokkaido Milk Tea", "Latte", "Matcha Latte", "Mocha", "Oolong Milk Tea", "Taro Matcha", "Taro Milk Tea", "Mango Lassi"];
+var hidden_drinks = ["Oolong Milk Tea"]
 let nutrition_info = []; // global variable
 Papa.parse("HGV_Nutrition.csv", {
   download: true,
@@ -95,6 +96,9 @@ document.addEventListener("DOMContentLoaded", () => {
       for (var i = 0; i < drink_names.length; i++) {
         var drink_name = indices.map(i => drink_names[i]);
         console.log(drink_name[i])
+        if (hidden_drinks.includes(drink_name[i])) {
+          continue;
+        }
         var cold_drink = find_drink(indices[i], "Cold");
         var hot_drink = find_drink(indices[i], "Hot");
         content_section.innerHTML += `
