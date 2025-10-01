@@ -28,7 +28,7 @@ Website ID,Temperature,Drink,Allergen Info,Caption,Ingredient 1,Grams,Ingredient
 ,Cold,Cold Milk,,,Milk Powder,30,,,,,150,8,110,13,8,,Calories,4.4,,Calories,4.1
 ,Hot,Hot Milk,,,Milk Powder,30,,,,,150,8,110,13,8,,Fat,0.14,,Fat,0.08
 ,Hot,Hot Water,,,,,,,,,0,0,0,0,0,,Sodium,8.5,,Sodium,0.6
-13,Cold,Mango Lassi (Cold),Includes: Milk,A creamy mango drink that's sweet and tangy!,Mango,40,Milk Powder,15,Mango,40,429,14,199,59,6,,Sugar,0.56,,Sugar,0.73
+13,Cold,Mango Lassi (Cold),Includes: Milk,A creamy mango drink that's sweet and tangy!,Mango,30,Milk Powder,15,Mango,30,341,12,163,46,6,,Sugar,0.56,,Sugar,0.73
 13,Hot,Mango Lassi (Hot),Includes: Milk,A creamy mango drink that's sweet and tangy!,Mango,40,Milk Powder,15,,,252,9,127,33,5,,Protein,0.01,,Protein,0.02
 ,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,Mango Powder (per g),,,,
