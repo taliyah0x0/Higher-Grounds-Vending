@@ -16,7 +16,7 @@ var drink_names = ["Thai Milk Tea",
   "Pumpkin Spice Latte",
   "Pumpkin Matcha",
   "Pumpkin Taro"];
-var hidden_drinks = ["Oolong Milk Tea"]
+var hidden_drinks = ["Oolong Milk Tea","Mango Lassi"]
 let nutrition_info = []; // global variable
 Papa.parse("HGV_Nutrition.csv", {
   download: true,
