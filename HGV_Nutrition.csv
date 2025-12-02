@@ -36,4 +36,11 @@ Website ID,Temperature,Drink,Allergen Info,Caption,Ingredient 1,Grams,Ingredient
 15,Hot,Pumpkin Taro (Hot),"Includes: Caffeine, Milk",Two earthly flavors meet in autumn sweetness.,Pumpkin,50,Taro,30,,,370,15,358,42,3,,Calories,4.425,,Calories,4.761904762
 16,Cold,Pumpkin Matcha (Cold),"Includes: Caffeine, Milk",Pumpkin spice finds calm in matcha.,Pumpkin,50,Matcha,30,,,375,15,157,48,3,,Sodium,1.8,,Sodium,2.063492063
 16,Hot,Pumpkin Matcha (Hot),"Includes: Caffeine, Milk",Pumpkin spice finds calm in matcha.,Pumpkin,50,Matcha,30,,,375,15,157,48,3,,Sugar,0.65,,Sugar,0.5079365079
-,,,,,,,,,,,,,,,,,Protein,0.025,,Protein,0.04761904762
+17,Cold,Candy Cane Cocoa (Cold),Includes: MIlk,Special flavor for the winter season!,Candy cane cocoa,60,,,,,250,4,283,43,2,,Protein,0.025,,Protein,0.04761904762
+17,Hot,Candy Cane Cocoa (Hot),Includes: Milk,Special flavor for the winter season!,Candy cane cocoa,60,,,,,250,4,283,43,2,,,,,,
+,,,,,,,,,,,,,,,,,Candy Cane Cocoa (per g),,,,
+,,,,,,,,,,,,,,,,,Fat,0.06944444444,,,
+,,,,,,,,,,,,,,,,,Calories,4.166666667,,,
+,,,,,,,,,,,,,,,,,Sodium,4.722222222,,,
+,,,,,,,,,,,,,,,,,Sugar,0.7222222222,,,
+,,,,,,,,,,,,,,,,,Protein,0.02777777778,,,
