@@ -1,46 +1,46 @@
 Website ID,Temperature,Drink,Allergen Info,Caption,Ingredient 1,Grams,Ingredient 2,Grams,Ingredient 3,Grams,Total Calories,Total Fat,Total Sodium,Total Sugar,Total Protein,,,,,,
-2,Cold,Banana Latte (Cold),"Includes: Caffeine, Milk",A delightful blend of banana and espresso with milk.,Coffee Bean,20,Banana,30,Milk Powder,10,188,6,96,29,4,,,,,,
-2,Hot,Banana Latte (Hot),"Includes: Caffeine, Milk",A delightful blend of banana and espresso with milk.,Coffee Bean,20,Banana,30,Milk Powder,10,188,6,96,29,4,,Coffee Bean (per g),,,Milk Powder (per g),
-4,Cold,Banana Milk (Cold),Includes: Milk,A creamy and delicious banana-flavored milkshake.,Banana,50,Milk Powder,15,,,297,10,145,48,5,,Calories,0.25,,Calories,5
-4,Hot,Banana Milk (Hot),Includes: Milk,"A unique combination of banana and taro flavors.,",Banana,40,Milk Powder,15,,,252,8,127,40,5,,Fat,0,,Fat,0.2666666667
-5,Cold,Premium Choco Banana (Cold),"Includes: Caffeine, Milk",A rich and chocolatey banana drink with milk.,Mocha,15,Milk Powder,15,Banana,30,268,8,132,42,5,,Sodium,0.25,,Sodium,3.666666667
-5,Hot,Premium Choco Banana (Hot),"Includes: Caffeine, Milk",A rich and chocolatey banana drink with milk.,Mocha,15,Milk Powder,15,Banana,30,268,8,132,42,5,,Sugar,0,,Sugar,0.4333333333
-3,Cold,Banana Taro (Cold),Includes: Milk,A unique combination of banana and taro flavors.,Taro,30,Milk Powder,15,Banana,30,340,12,364,48,5,,Protein,0.025,,Protein,0.2666666667
-3,Hot,Banana Taro (Hot),Includes: Milk,A unique combination of banana and taro flavors.,Taro,25,Milk Powder,15,Banana,25,296,10,313,41,5,,,,,,
-9,Cold,Mocha (Cold),"Includes: Caffeine, Milk","A rich and indulgent mocha made with espresso, chocolate, and steamed milk.",Milk Powder,20,Mocha,60,,,340,10,167,49,8,,Banana Milk Powder (per g),,,Mocha Powder (per g),
-9,Hot,Mocha (Hot),"Includes: Caffeine, Milk","A rich and indulgent mocha made with espresso, chocolate, and steamed milk.",Mocha,50,,,,,200,4,78,33,2,,Calories,4.4335613,,Calories,4
-7,Cold,Sugar-Free Latte (Cold),"Includes: Caffeine, Milk",A classic espresso-based drink with steamed milk.,Coffee Bean,20,Milk Powder,14,,,75,4,56,6,4,,Fat,0.11,,Fat,0.07777777778
-7,Hot,Sugar-Free Latte (Hot),"Includes: Caffeine, Milk",A classic espresso-based drink with steamed milk.,Coffee Bean,18,Milk Powder,14,,,75,4,56,6,4,,Sodium,1.8,,Sodium,1.555555556
+2,Cold,Banana Latte (Cold),"Includes: Caffeine, Dairy",A delightful blend of banana and espresso with milk.,Coffee Bean,20,Banana,30,Milk Powder,10,188,6,96,29,4,,,,,,
+2,Hot,Banana Latte (Hot),"Includes: Caffeine, Dairy",A delightful blend of banana and espresso with milk.,Coffee Bean,20,Banana,30,Milk Powder,10,188,6,96,29,4,,Coffee Bean (per g),,,Milk Powder (per g),
+4,Cold,Banana Milk (Cold),Includes: Dairy,A creamy and delicious banana-flavored milkshake.,Banana,50,Milk Powder,15,,,297,10,145,48,5,,Calories,0.25,,Calories,5
+4,Hot,Banana Milk (Hot),Includes: Dairy,"A unique combination of banana and taro flavors.,",Banana,40,Milk Powder,15,,,252,8,127,40,5,,Fat,0,,Fat,0.2666666667
+5,Cold,Premium Choco Banana (Cold),"Includes: Caffeine, Dairy",A rich and chocolatey banana drink with milk.,Mocha,15,Milk Powder,15,Banana,30,268,8,132,42,5,,Sodium,0.25,,Sodium,3.666666667
+5,Hot,Premium Choco Banana (Hot),"Includes: Caffeine, Dairy",A rich and chocolatey banana drink with milk.,Mocha,15,Milk Powder,15,Banana,30,268,8,132,42,5,,Sugar,0,,Sugar,0.4333333333
+3,Cold,Banana Taro (Cold),Includes: Dairy,A unique combination of banana and taro flavors.,Taro,30,Milk Powder,15,Banana,30,340,12,364,48,5,,Protein,0.025,,Protein,0.2666666667
+3,Hot,Banana Taro (Hot),Includes: Dairy,A unique combination of banana and taro flavors.,Taro,25,Milk Powder,15,Banana,25,296,10,313,41,5,,,,,,
+9,Cold,Mocha (Cold),"Includes: Caffeine, Dairy","A rich and indulgent mocha made with espresso, chocolate, and steamed milk.",Milk Powder,20,Mocha,60,,,340,10,167,49,8,,Banana Milk Powder (per g),,,Mocha Powder (per g),
+9,Hot,Mocha (Hot),"Includes: Caffeine, Dairy","A rich and indulgent mocha made with espresso, chocolate, and steamed milk.",Mocha,50,,,,,200,4,78,33,2,,Calories,4.4335613,,Calories,4
+7,Cold,Sugar-Free Latte (Cold),"Includes: Caffeine, Dairy",A classic espresso-based drink with steamed milk.,Coffee Bean,20,Milk Powder,14,,,75,4,56,6,4,,Fat,0.11,,Fat,0.07777777778
+7,Hot,Sugar-Free Latte (Hot),"Includes: Caffeine, Dairy",A classic espresso-based drink with steamed milk.,Coffee Bean,18,Milk Powder,14,,,75,4,56,6,4,,Sodium,1.8,,Sodium,1.555555556
 1,Cold,Cold Americano,Includes: Caffeine,A classic espresso-based drink with hot water.,Coffee Bean,20,,,,,5,0,5,0,1,,Sugar,0.8345,,Sugar,0.6666666667
 1,Hot,Hot Americano,Includes: Caffeine,A classic espresso-based drink with hot water.,Coffee Bean,20,,,,,5,0,5,0,1,,Protein,0.0185,,Protein,0.04444444444
-11,Cold,Taro Matcha (Cold),Includes: Milk,A unique blend of taro and matcha flavors in a creamy latte.,Taro,30,Milk Powder,15,Matcha,30,344,13,364,46,5,,,,,,
-11,Hot,Taro Matcha (Hot),Includes: Milk,A unique blend of taro and matcha flavors in a creamy latte.,Taro,25,Milk Powder,10,Matcha,25,274,10,294,37,4,,,,,,
-12,Cold,Taro Milk Tea (Cold),Includes: Milk,A smooth and creamy milk tea made with taro root.,Taro,60,Milk Powder,15,,,339,12,565,40,5,,Matcha Powder (per g),,,Assam Tea Powder (per g),
-12,Hot,Taro Milk Tea (Hot),Includes: Milk,A smooth and creamy milk tea made with taro root.,Taro,40,,,,,176,6,340,22,0,,Calories,4.56262454,,Calories,4.53394382
-8,Cold,Matcha Latte (Cold),Includes: Milk,A vibrant green tea latte made with matcha powder and milk.,Matcha,60,Milk Powder,15,,,349,13,163,52,6,,Fat,0.153,,Fat,0.159
-8,Hot,Matcha Latte (Hot),Includes: Milk,A vibrant green tea latte made with matcha powder and milk.,Matcha,50,,,,,228,8,90,38,2,,Sodium,1.8,,Sodium,1.75
-6,Cold,Hokkaido Milk Tea (Cold),Includes: Milk,A smooth and creamy milk tea made with Hokkaido milk.,Assam Milk,60,Milk Powder,15,,,347,14,160,52,5,,Sugar,0.76,,Sugar,0.75
-6,Hot,Hokkaido Milk Tea (Hot),Includes: Milk,A smooth and creamy milk tea made with Hokkaido milk.,Assam Milk,40,Milk Powder,15,,,256,10,125,37,5,,Protein,0.03,,Protein,0.02
-10,Cold,Oolong Milk Tea (Cold),Includes: Milk,A smooth and creamy milk tea made with oolong tea leaves.,Assam Milk,60,Milk Powder,15,,,347,14,160,52,5,,Sugar,0.76,,Sugar,0.75
-10,Hot,Oolong Milk Tea (Hot),Includes: Milk,A smooth and creamy milk tea made with oolong tea leaves.,Assam Milk,40,Milk Powder,15,,,256,10,125,37,5,,Protein,0.03,,Protein,0.02
+11,Cold,Taro Matcha (Cold),Includes: Dairy,A unique blend of taro and matcha flavors in a creamy latte.,Taro,30,Milk Powder,15,Matcha,30,344,13,364,46,5,,,,,,
+11,Hot,Taro Matcha (Hot),Includes: Dairy,A unique blend of taro and matcha flavors in a creamy latte.,Taro,25,Milk Powder,10,Matcha,25,274,10,294,37,4,,,,,,
+12,Cold,Taro Milk Tea (Cold),Includes: Dairy,A smooth and creamy milk tea made with taro root.,Taro,60,Milk Powder,15,,,339,12,565,40,5,,Matcha Powder (per g),,,Assam Tea Powder (per g),
+12,Hot,Taro Milk Tea (Hot),Includes: Dairy,A smooth and creamy milk tea made with taro root.,Taro,40,,,,,176,6,340,22,0,,Calories,4.56262454,,Calories,4.53394382
+8,Cold,Matcha Latte (Cold),Includes: Dairy,A vibrant green tea latte made with matcha powder and milk.,Matcha,60,Milk Powder,15,,,349,13,163,52,6,,Fat,0.153,,Fat,0.159
+8,Hot,Matcha Latte (Hot),Includes: Dairy,A vibrant green tea latte made with matcha powder and milk.,Matcha,50,,,,,228,8,90,38,2,,Sodium,1.8,,Sodium,1.75
+6,Cold,Hokkaido Milk Tea (Cold),Includes: Dairy,A smooth and creamy milk tea made with Hokkaido milk.,Assam Milk,60,Milk Powder,15,,,347,14,160,52,5,,Sugar,0.76,,Sugar,0.75
+6,Hot,Hokkaido Milk Tea (Hot),Includes: Dairy,A smooth and creamy milk tea made with Hokkaido milk.,Assam Milk,40,Milk Powder,15,,,256,10,125,37,5,,Protein,0.03,,Protein,0.02
+10,Cold,Oolong Milk Tea (Cold),Includes: Dairy,A smooth and creamy milk tea made with oolong tea leaves.,Assam Milk,60,Milk Powder,15,,,347,14,160,52,5,,Sugar,0.76,,Sugar,0.75
+10,Hot,Oolong Milk Tea (Hot),Includes: Dairy,A smooth and creamy milk tea made with oolong tea leaves.,Assam Milk,40,Milk Powder,15,,,256,10,125,37,5,,Protein,0.03,,Protein,0.02
 0,Cold,Thai Milk Tea (Cold),"Uses non-dairy creamer. Lactose-Free, not vegan.",A refreshing and delicious Thai tea that is lactose-free!,Thai milk tea,50,,,,,205,4,30,37,1,,,,,,
 0,Hot,Thai Milk Tea (Hot),"Uses non-dairy creamer. Lactose-Free, not vegan.",A refreshing and delicious Thai tea that is lactose-free!,Thai milk tea,40,,,,,164,3,24,29,1,,Taro Powder (per g),,,Thai Tea Powder (per g),
-,Cold,Cold Milk,,,Milk Powder,30,,,,,150,8,110,13,8,,Calories,4.4,,Calories,4.1
-,Hot,Hot Milk,,,Milk Powder,30,,,,,150,8,110,13,8,,Fat,0.14,,Fat,0.08
+,Cold,Cold Milk,Includes: Dairy,,Milk Powder,30,,,,,150,8,110,13,8,,Calories,4.4,,Calories,4.1
+,Hot,Hot Milk,Includes: Dairy,,Milk Powder,30,,,,,150,8,110,13,8,,Fat,0.14,,Fat,0.08
 ,Hot,Hot Water,,,,,,,,,0,0,0,0,0,,Sodium,8.5,,Sodium,0.6
-13,Cold,Mango Lassi (Cold),Includes: Milk,A creamy mango drink that's sweet and tangy!,Mango,30,Milk Powder,15,Mango,30,341,12,163,46,6,,Sugar,0.56,,Sugar,0.73
-13,Hot,Mango Lassi (Hot),Includes: Milk,A creamy mango drink that's sweet and tangy!,Mango,40,Milk Powder,15,,,252,9,127,33,5,,Protein,0.01,,Protein,0.02
-14,Cold,Pumpkin Spice Latte (Cold),"Includes: Caffeine, Milk",A creamy pumpkin spice drink perfect for fall weather.,Pumpkin,100,,,,,476,21,206,51,5,,,,,,
-14,Hot,Pumpkin Spice Latte (Hot),"Includes: Caffeine, Milk",A creamy pumpkin spice drink perfect for fall weather.,Pumpkin,100,,,,,476,21,206,51,5,,Mango Powder (per g),,,Pumpkin Powder (per g),
-15,Cold,Pumpkin Taro (Cold),"Includes: Caffeine, Milk",Two earthly flavors meet in autumn sweetness.,Pumpkin,50,Taro,30,,,370,15,358,42,3,,Fat,0.125,,Fat,0.2063492063
-15,Hot,Pumpkin Taro (Hot),"Includes: Caffeine, Milk",Two earthly flavors meet in autumn sweetness.,Pumpkin,50,Taro,30,,,370,15,358,42,3,,Calories,4.425,,Calories,4.761904762
-16,Cold,Pumpkin Matcha (Cold),"Includes: Caffeine, Milk",Pumpkin spice finds calm in matcha.,Pumpkin,50,Matcha,30,,,375,15,157,48,3,,Sodium,1.8,,Sodium,2.063492063
-16,Hot,Pumpkin Matcha (Hot),"Includes: Caffeine, Milk",Pumpkin spice finds calm in matcha.,Pumpkin,50,Matcha,30,,,375,15,157,48,3,,Sugar,0.65,,Sugar,0.5079365079
-17,Cold,Candy Cane Cocoa (Cold),Includes: MIlk,Special flavor for the winter season!,Candy cane cocoa,60,,,,,250,4,283,43,2,,Protein,0.025,,Protein,0.04761904762
-17,Hot,Candy Cane Cocoa (Hot),Includes: Milk,Special flavor for the winter season!,Candy cane cocoa,60,,,,,250,4,283,43,2,,,,,,
-18,Cold,Sakura Latte (Cold),Includes: MIlk,Pretty pink creamy latte with notes of cherry blossom!,Sakura,60,Milk Powder,15,,,359,15,61,41,6,,Candy Cane Cocoa (per g),,,Sakura Powder (per g),
-18,Hot,Sakura Latte (Hot),Includes: Milk,Pretty pink creamy latte with notes of cherry blossom!,Sakura,40,Milk Powder,12,,,249,10,48,28,4,,Fat,0.06944444444,,Fat,0.175
-,,,,,,,,,,,,,,,,,Calories,4.166666667,,Calories,4.725
-,,,,,,,,,,,,,,,,,Sodium,4.722222222,,Sodium,0.1058201058
-,,,,,,,,,,,,,,,,,Sugar,0.7222222222,,Sugar,0.575
-,,,,,,,,,,,,,,,,,Protein,0.02777777778,,Protein,0.025
+13,Cold,Mango Lassi (Cold),Includes: Dairy,A creamy mango drink that's sweet and tangy!,Mango,30,Milk Powder,15,Mango,30,341,12,163,46,6,,Sugar,0.56,,Sugar,0.73
+13,Hot,Mango Lassi (Hot),Includes: Dairy,A creamy mango drink that's sweet and tangy!,Mango,40,Milk Powder,15,,,252,9,127,33,5,,Protein,0.01,,Protein,0.02
+14,Cold,Pumpkin Spice Latte (Cold),"Includes: Caffeine, Dairy",A creamy pumpkin spice drink perfect for fall weather.,Pumpkin,100,,,,,476,21,206,51,5,,,,,,
+14,Hot,Pumpkin Spice Latte (Hot),"Includes: Caffeine, Dairy",A creamy pumpkin spice drink perfect for fall weather.,Pumpkin,100,,,,,476,21,206,51,5,,Mango Powder (per g),,,Pumpkin Powder (per g),
+15,Cold,Pumpkin Taro (Cold),"Includes: Caffeine, Dairy",Two earthly flavors meet in autumn sweetness.,Pumpkin,50,Taro,30,,,370,15,358,42,3,,Fat,0.125,,Fat,0.2063492063
+15,Hot,Pumpkin Taro (Hot),"Includes: Caffeine, Dairy",Two earthly flavors meet in autumn sweetness.,Pumpkin,50,Taro,30,,,370,15,358,42,3,,Calories,4.425,,Calories,4.761904762
+16,Cold,Pumpkin Matcha (Cold),"Includes: Caffeine, Dairy",Pumpkin spice finds calm in matcha.,Pumpkin,50,Matcha,30,,,375,15,157,48,3,,Sodium,1.8,,Sodium,2.063492063
+16,Hot,Pumpkin Matcha (Hot),"Includes: Caffeine, Dairy",Pumpkin spice finds calm in matcha.,Pumpkin,50,Matcha,30,,,375,15,157,48,3,,Sugar,0.65,,Sugar,0.5079365079
+17,Cold,Candy Cane Cocoa (Cold),Includes: Dairy,Special flavor for the winter season!,Candy cane cocoa,60,,,,,250,4,283,43,2,,Protein,0.025,,Protein,0.04761904762
+17,Hot,Candy Cane Cocoa (Hot),Includes: Dairy,Special flavor for the winter season!,Candy cane cocoa,60,,,,,250,4,283,43,2,,,,,,
+18,Cold,Sakura Latte (Cold),Includes: Dairy,Pretty pink creamy latte with notes of cherry blossom!,Sakura,60,Milk Powder,15,,,359,15,61,41,6,,Candy Cane Cocoa (per g),,,Sakura Powder (per g),
+18,Hot,Sakura Latte (Hot),Includes: Dairy,Pretty pink creamy latte with notes of cherry blossom!,Sakura,40,,,,,189,7,4,23,1,,Fat,0.06944444444,,Fat,0.175
+19,Cold,Sakura Matcha (Cold),Includes: Dairy,A perfect combo of Japanese flavors!,Milk Powder,15,Sakura,30,Matcha,30,354,14,112,47,6,,Calories,4.166666667,,Calories,4.725
+19,Hot,Sakura Matcha (Hot),Includes: Dairy,A perfect combo of Japanese flavors!,Sakura,20,Matcha,20,,,186,7,38,27,1,,Sodium,4.722222222,,Sodium,0.1058201058
+20,Cold,Sakura Taro (Cold),Includes: Dairy,Floral and earthy flavors come together!,Milk Powder,15,Sakura,30,Taro,30,349,13,313,41,5,,Sugar,0.7222222222,,Sugar,0.575
+20,Hot,Sakura Taro (Hot),Includes: Dairy,Floral and earthy flavors come together!,Sakura,20,Taro,20,,,183,6,172,23,1,,Protein,0.02777777778,,Protein,0.025
