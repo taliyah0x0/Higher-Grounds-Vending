@@ -18,6 +18,9 @@ var drink_names = [
   "Pumpkin Matcha",
   "Pumpkin Taro",
   "Candy Cane Cocoa",
+  "Sakura Latte",
+  "Sakura Matcha",
+  "Sakura Taro"
 ];
 var hidden_drinks = [
   "Oolong Milk Tea",
