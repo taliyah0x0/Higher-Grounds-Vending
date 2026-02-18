@@ -194,19 +194,3 @@ function toggleNutrition(index) {
     document.getElementsByClassName("nutrition-title")[index].innerHTML = info.substring(0, info.length - 1) + "+";
   }
 }
-
-window.addEventListener('click', function() {
-  setTimeout(() => {
-    document.getElementById("ad-popup").style.display = "none";
-    document.getElementById("linkform").style.display = "none";
-  }, 500);
-
-});
-
-window.addEventListener('touchend', function() {
-  setTimeout(() => {
-    document.getElementById("ad-popup").style.display = "none";
-    document.getElementById("linkform").style.display = "none";
-  }, 500);
-
-});
