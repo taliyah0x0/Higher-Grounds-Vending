@@ -44,3 +44,10 @@ Website ID,Temperature,Drink,Allergen Info,Caption,Ingredient 1,Grams,Ingredient
 19,Hot,Sakura Matcha (Hot),Includes: Dairy,A perfect combo of Japanese flavors!,Sakura,20,Matcha,20,,,186,7,38,27,1,,Sodium,4.722222222,,Sodium,0.1058201058
 20,Cold,Sakura Taro (Cold),Includes: Dairy,Floral and earthy flavors come together!,Milk Powder,15,Sakura,30,Taro,30,349,13,313,41,5,,Sugar,0.7222222222,,Sugar,0.575
 20,Hot,Sakura Taro (Hot),Includes: Dairy,Floral and earthy flavors come together!,Sakura,20,Taro,20,,,183,6,172,23,1,,Protein,0.02777777778,,Protein,0.025
+21,Cold,Honeydew Melon Latte (Cold),Includes: Dairy,Bringing to you the taste of spring!,Honeydew,60,Milk Powder,15,,,315,9,97,46,5,,,,,,
+21,Hot,Honeydew Melon Latte (Hot),Includes: Dairy,Bringing to you the taste of spring!,Honeydew,40,,,,,160,3,28,26,1,,Honeydew Powder (per g),,,,
+,,,,,,,,,,,,,,,,,Fat,0.08,,,
+,,,,,,,,,,,,,,,,,Calories,4,,,
+,,,,,,,,,,,,,,,,,Sodium,0.7,,,
+,,,,,,,,,,,,,,,,,Sugar,0.66,,,
+,,,,,,,,,,,,,,,,,Protein,0.02,,,
