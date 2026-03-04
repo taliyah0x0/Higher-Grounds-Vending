@@ -20,7 +20,8 @@ var drink_names = [
   "Candy Cane Cocoa",
   "Sakura Latte",
   "Sakura Matcha",
-  "Sakura Taro"
+  "Sakura Taro",
+  "Honeydew Melon Latte"
 ];
 var hidden_drinks = [
   "Oolong Milk Tea",
@@ -29,7 +30,8 @@ var hidden_drinks = [
   "Pumpkin Matcha",
   "Pumpkin Taro",
   "Choco Banana",
-  "Oolong Milk Tea"
+  "Oolong Milk Tea",
+  "Candy Cane Cocoa",
 ]
 let nutrition_info = []; // global variable
 Papa.parse("HGV_Nutrition.csv", {
