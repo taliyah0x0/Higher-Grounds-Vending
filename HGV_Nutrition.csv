@@ -44,10 +44,11 @@ Website ID,Temperature,Drink,Allergen Info,Caption,Ingredient 1,Grams,Ingredient
 19,Hot,Sakura Matcha (Hot),Includes: Dairy,A perfect combo of Japanese flavors!,Sakura,20,Matcha,20,,,186,7,38,27,1,,Sodium,4.722222222,,Sodium,0.1058201058
 20,Cold,Sakura Taro (Cold),Includes: Dairy,Floral and earthy flavors come together!,Milk Powder,15,Sakura,30,Taro,30,349,13,313,41,5,,Sugar,0.7222222222,,Sugar,0.575
 20,Hot,Sakura Taro (Hot),Includes: Dairy,Floral and earthy flavors come together!,Sakura,20,Taro,20,,,183,6,172,23,1,,Protein,0.02777777778,,Protein,0.025
-21,Cold,Honeydew Melon Latte (Cold),Includes: Dairy,Bringing to you the taste of spring!,Honeydew,60,Milk Powder,15,,,315,9,97,46,5,,,,,,
-21,Hot,Honeydew Melon Latte (Hot),Includes: Dairy,Bringing to you the taste of spring!,Honeydew,40,,,,,160,3,28,26,1,,Honeydew Powder (per g),,,,
-,,,,,,,,,,,,,,,,,Fat,0.08,,,
-,,,,,,,,,,,,,,,,,Calories,4,,,
-,,,,,,,,,,,,,,,,,Sodium,0.7,,,
-,,,,,,,,,,,,,,,,,Sugar,0.66,,,
-,,,,,,,,,,,,,,,,,Protein,0.02,,,
+21,Cold,Honeydew Melon Milk Tea (Cold),Includes: Dairy,Bringing to you the taste of spring!,Honeydew,60,Milk Powder,15,,,315,9,97,46,5,,,,,,
+21,Hot,Honeydew Melon Milk Tea (Hot),Includes: Dairy,Bringing to you the taste of spring!,Honeydew,40,,,,,160,3,28,26,1,,Honeydew Powder (per g),,,,
+22,Hot,Honeydew Melon Matcha (Hot),Includes: Dairy,"Green tea, melon breeze.",Honeydew,15,Matcha,25,,,174,5,56,29,1,,Fat,0.08,,,
+22,Cold,Honeydew Melon Matcha (Cold),Includes: Dairy,"Green tea, melon breeze.",Milk Powder,15,Honeydew,20,Matcha,40,338,12,141,50,6,,Calories,4,,,
+23,Hot,Honeydew Melon Taro (Hot),Includes: Dairy,Light honeydew sweetness with velvety taro.,Honeydew,20,Taro,20,,,168,4,184,24,1,,Sodium,0.7,,,
+23,Cold,Honeydew Melon Taro (Cold),Includes: Dairy,Light honeydew sweetness with velvety taro.,Milk Powder,15,Honeydew,30,Taro,30,327,11,331,43,5,,Sugar,0.66,,,
+24,Hot,Honeydew Melon Latte (Hot),"Includes: Caffeine, Dairy","Sweet melon flavor, balanced with bold espresso.",Coffee Bean,20,Honeydew,30,Milk Powder,10,175,5,63,24,4,,Protein,0.02,,,
+24,Cold,Honeydew Melon Latte (Cold),"Includes: Caffeine, Dairy","Sweet melon flavor, balanced with bold espresso.",Coffee Bean,20,Honeydew,30,Milk Powder,10,175,5,63,24,4,,,,,,
