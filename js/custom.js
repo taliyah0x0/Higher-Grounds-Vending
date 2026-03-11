@@ -21,7 +21,10 @@ var drink_names = [
   "Sakura Latte",
   "Sakura Matcha",
   "Sakura Taro",
-  "Honeydew Melon Latte"
+  "Honeydew Melon Milk Tea",
+  "Honeydew Melon Matcha",
+  "Honeydew Melon Taro",
+  "Honeydew Melon Latte",
 ];
 var hidden_drinks = [
   "Oolong Milk Tea",
